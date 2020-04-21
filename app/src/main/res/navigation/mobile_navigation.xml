@@ -6,9 +6,9 @@
     app:startDestination="@id/splashFragment">
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.unicomg.robustatask.ui.SplashFragment"
+        android:name="com.unicomg.robustatask.ui.WelcomeFragment"
         android:label="fragment_splash"
-        tools:layout="@layout/fragment_splash" >
+        tools:layout="@layout/fragment_welcome" >
         <action
             android:id="@+id/action_splashFragment_to_shareFragment"
             app:destination="@id/shareFragment" />

@@ -10,4 +10,9 @@
     <string name="permissions">The application needs some permissions.</string>
     <string name="cancel">CANCEL</string>
     <string name="waiting">Please wait ...</string>
+    <string name="start_lbl">start</string>
+    <string name="history_lbl">history</string>
+    <string name="save_lbl">save</string>
+    <string name="share_lbl">share</string>
+    <string name="chose_image_lbl">chose image</string>
 </resources>
