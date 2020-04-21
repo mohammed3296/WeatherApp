@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 public class Utilities {
 
     public static String getDayName(long dateInMillis) {
-        SimpleDateFormat dayFormat = new SimpleDateFormat("EEEE");
+        SimpleDateFormat dayFormat = new SimpleDateFormat("EEE MMM dd");
         return dayFormat.format(dateInMillis);
     }
 
